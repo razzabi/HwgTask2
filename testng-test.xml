@@ -2,9 +2,7 @@
 <suite name="REST Assured Test Suite">
     <test name="API Tests">
         <classes>
-            <class name="pertamedika.registerUserPO"/>
-            <class name="pertamedika.loginValidUserPO"/>
-            <class name="pertamedika.loginInvalidUserPO"/>
+            <class name="hwg.Game"/>
         </classes>
     </test>
 </suite>
